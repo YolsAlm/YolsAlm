@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="">, I'm Azzar</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university, see my <a href="" target="_blank">resume</a> for more</h4>
+<h1 align="center">Hi <img width="35" src="https://github.com/YolsAlm/YolsAlm/blob/main/waving.gif">, I'm Yolanda Almagro</h1>
+<h4 align="center">I am a systems administrator and web programming developer in progress. You can see a resume in my portfolio</h4>
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <a href="https://github.com/YolsAlm/">
+  <img  src="https://github.com/YolsAlm/YolsAlm/blob/main/grid-snake.svg"
        alt="snake" /></a>
 </div>
 

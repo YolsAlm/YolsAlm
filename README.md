@@ -42,9 +42,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
   <img src="https://user-images.githubusercontent.com/59575502/127427981-bfaa39a1-bce1-4f63-85c4-f61f14f39f46.png" alt="windows" width="40" height="40" />
   <img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" alt="mysql" width="40" height="40" />
-  <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="25" height="25" />
-  <img src="https://user-images.githubusercontent.com/59575502/127427977-74d3fe09-d1c3-447a-9446-b28aae6df5cb.png" alt="ubuntu" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" width="40px">
+  <img src="https://user-images.githubusercontent.com/59575502/127427980-4b5ba4cf-daee-474f-a500-872181ccc470.png" alt="vscode" width="40" height="40" />
+  <img src="https://user-images.githubusercontent.com/59575502/127427977-74d3fe09-d1c3-447a-9446-b28aae6df5cb.png" alt="ubuntu" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" alt="MongoDB" width="40" height="40" />
 
 
 <br>

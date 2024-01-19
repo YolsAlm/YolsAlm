@@ -9,3 +9,12 @@
        alt="snake" /></a>
 </div>
 
+## <picture><img src = "https://github.com/YolsAlm/YolsAlm/blob/main/about_me.gif" width = 50px></picture> About me
+
+<br><br>
+
+- :school: I am a systems administrator and junior developer
+- :technologist: 
+- :computer: 
+- :boom: You can visit [MY PORTFOLIO](https://github.com/YolsAlm/portfolio).
+<br>

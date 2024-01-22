@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Web Development and other programming languages
 - 📫 How to reach me **yuyi.almagro@gmail.com**
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-- :boom: You can visit [MY PORTFOLIO](https://github.com/YolsAlm/portfolio).
+- :boom: You can visit [MY PORTFOLIO](https://yolsalm.github.io/portfolio/).
 <br>
 
 <h3 align="left">Connect with me:</h3>
